@@ -2,14 +2,14 @@
 <body><p>&nbsp;</p>
 <h1 id='python-code-for-ceaser-cipher'>Python Code for Ceaser Cipher</h1>
 
+**Table of Content**
 - [Python Code for Ceaser Cipher](#python-code-for-ceaser-cipher)
   * [Caesar cipher](#caesar-cipher)
   * [Example](#example)
 - [How this code is working?](#how-this-code-is-working)
   * [List Comprehension](#list-comprehension)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
+---
 
 <p><img alt="GitHub followers" src="https://img.shields.io/github/followers/Muhammad-Ahsan-Rasheed?style=social"> 	</p>
 <h2 id='caesar-cipher'>Caesar cipher</h2>
